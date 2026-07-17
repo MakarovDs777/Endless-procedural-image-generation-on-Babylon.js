@@ -44,6 +44,6 @@
 
 Подиум с постепенной заменной пикселей на случайные пиксели из предустановленной картинки.
 
-[The endless art gallery of the Backrooms(Makarov’s version 9-With a preset image and replacing its pixels with random) | Babylon.js Playground](https://playground.babylonjs.com/#QJ28PQ)
+[The endless art gallery of the Backrooms(Makarov’s version 9-With a preset image and replacing its pixels with random) | Babylon.js Playground](https://playground.babylonjs.com/#QJ28PQ#1)
 
 Может у кого-то есть какие-то ещё идеи пишите в дискусии...
