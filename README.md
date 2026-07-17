@@ -42,7 +42,7 @@
 
 [The endless art gallery (Makarov’s version 8 - Endless color random picture) | Babylon.js Playground](https://playground.babylonjs.com/#FT6RX3)
 
-Подиум с постепенной заменной пикселей на случайные пиксели из предустановленной картинки.
+Подиум с постепенной заменной пикселей на случайные пиксели из предустановленной картинки работает только в +x а по -x не работает.
 
 [The endless art gallery of the Backrooms(Makarov’s version 9-With a preset image and replacing its pixels with random) | Babylon.js Playground](https://playground.babylonjs.com/#QJ28PQ#1)
 
