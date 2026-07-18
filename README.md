@@ -50,4 +50,8 @@
 
 [The endless art gallery (Makarov’s version 10 - Shuffled ONE art endless gallery) | Babylon.js Playground](https://playground.babylonjs.com/#ZRJP8W)
 
+Тоже самое что и предыдущая только в процетном соотношение каждый чанк имеет свой процент перемешивания (1%, 2%, ..., 100%, затем снова 1%). Внутри каждого процента перемешивание детерминированное от seed..
+
+[The endless art gallery (Makarov’s version 11 - Shuffled ONE art endless gallery as a percentage) | Babylon.js Playground](https://playground.babylonjs.com/#Q5KQFM)
+
 Может у кого-то есть какие-то ещё идеи пишите в дискусии...
