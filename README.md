@@ -54,11 +54,11 @@
 
 [The endless art gallery (Makarov’s version 11 - Shuffled ONE art endless gallery as a percentage) | Babylon.js Playground](https://playground.babylonjs.com/#Q5KQFM)
 
-Теперь сделаем множество картинок и перестановку пикселей в них случайно смешивая. Это так странно... Будто-бы ты играешь в майнкрафт, и гонки одновременно... Ну это не то что я хотел.
+Мне нужно последовательная замена пикселей с одной картинки на другую.
 
 [The endless art gallery (Makarov’s version 12 - Shuffled MORE art endless gallery as a percentage) | Babylon.js Playground](https://playground.babylonjs.com/#VKOWY3#2)
 
-Мне нужно последовательная замена пикселей с одной картинки на другую.
+Теперь сделаем множество картинок и перестановку пикселей в них случайно смешивая. Это так странно... Будто-бы ты играешь в майнкрафт, и гонки одновременно... Ну это не то что я хотел.
 
 [The endless art gallery (Makarov’s version 13 - Shuffled MORE art endless gallery as a % with random pixel swapping) | Babylon.js Playground](https://playground.babylonjs.com/)
 
