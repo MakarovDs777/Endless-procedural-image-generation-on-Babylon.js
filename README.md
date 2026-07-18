@@ -54,4 +54,8 @@
 
 [The endless art gallery (Makarov’s version 11 - Shuffled ONE art endless gallery as a percentage) | Babylon.js Playground](https://playground.babylonjs.com/#Q5KQFM)
 
+Теперь сделаем множество картинок и перестановку пикселей в них случайно смешивая.
+
+[The endless art gallery (Makarov’s version 12 - Shuffled MORE art endless gallery as a percentage) | Babylon.js Playground](https://playground.babylonjs.com/#VKOWY3)
+
 Может у кого-то есть какие-то ещё идеи пишите в дискусии...
