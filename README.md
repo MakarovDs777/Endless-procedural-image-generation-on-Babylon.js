@@ -60,6 +60,6 @@
 
 Теперь сделаем множество картинок и перестановку пикселей в них случайно смешивая. Это так странно... Будто-бы ты играешь в майнкрафт, и гонки одновременно... Ну это не то что я хотел.
 
-[The endless art gallery (Makarov’s version 13 - Shuffled MORE art endless gallery as a % with random pixel swapping) | Babylon.js Playground](https://playground.babylonjs.com/)
+[The endless art gallery (Makarov’s version 13 - Shuffled MORE art endless gallery as a % with random pixel swapping) | Babylon.js Playground](https://playground.babylonjs.com/#3UXDUC)
 
 Может у кого-то есть какие-то ещё идеи пишите в дискусии...
