@@ -46,4 +46,8 @@
 
 [The endless art gallery of the Backrooms(Makarov’s version 9-With a preset image and replacing its pixels with random) | Babylon.js Playground](https://playground.babylonjs.com/#QJ28PQ#1)
 
+Теперь сделаем вместо замены случайных пикселей на случайные просто случайно пермешанные пиксели без повторов.
+
+[The endless art gallery (Makarov’s version 10 - Shuffled ONE art endless gallery) | Babylon.js Playground](https://playground.babylonjs.com/#ZRJP8W)
+
 Может у кого-то есть какие-то ещё идеи пишите в дискусии...
