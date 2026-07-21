@@ -54,12 +54,16 @@
 
 [The endless art gallery (Makarov’s version 11 - Shuffled ONE art endless gallery as a percentage) | Babylon.js Playground](https://playground.babylonjs.com/#Q5KQFM)
 
-Мне нужно последовательная замена пикселей с одной картинки на другую.
+Мне нужно последовательная замена пикселей с одной картинки на другую ПОЛОСКАМИ вертикальными.
 
 [The endless art gallery (Makarov’s version 12 - Shuffled MORE art endless gallery as a percentage) | Babylon.js Playground](https://playground.babylonjs.com/#VKOWY3#2)
 
-Теперь сделаем множество картинок и перестановку пикселей в них случайно смешивая. Это так странно... Будто-бы ты играешь в майнкрафт, и гонки одновременно... Ну это не то что я хотел.
+Теперь сделаем множество картинок, и перестановку пикселей в них случайно смешивая между собой. Это так странно... Будто-бы ты играешь в майнкрафт, и гонки одновременно... Ну это не то что я хотел.
 
 [The endless art gallery (Makarov’s version 13 - Shuffled MORE art endless gallery as a % with random pixel swapping) | Babylon.js Playground](https://playground.babylonjs.com/#3UXDUC)
+
+Просто случаное пермешивание пикселей при каждой последующей итерации.
+
+[The endless art gallery (Makarov’s version 14 - Random Shuffled ONE art endless gallery) | Babylon.js Playground](https://playground.babylonjs.com/#80SX0G)
 
 Может у кого-то есть какие-то ещё идеи пишите в дискусии...
