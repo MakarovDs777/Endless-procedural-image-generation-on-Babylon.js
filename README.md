@@ -66,4 +66,8 @@
 
 [The endless art gallery (Makarov’s version 14 - Random Shuffled ONE art endless gallery) | Babylon.js Playground](https://playground.babylonjs.com/#80SX0G)
 
+Но 8 версия бесконечного ковра цветного растянутая какая-то нужно убрать эти кольца растянутости.
+
+[The endless art gallery (Makarov’s version 15 - Endless color random carpet on SIMD-BP128) | Babylon.js Playground](https://playground.babylonjs.com/#M6DA22)
+
 Может у кого-то есть какие-то ещё идеи пишите в дискусии...
