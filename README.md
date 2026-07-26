@@ -72,6 +72,6 @@
 
 Отлично теперь я хочу совместить квантовую пену, и SIMD-BP128 текстуру в бесконечной генерации ковра.
 
-[The endless art gallery (Makarov’s version 16 - Endless color random carpet on SIMD-BP128 + Quantum foam GUI parameters) | Babylon.js Playground](https://playground.babylonjs.com/#XYULV1)
+[The endless art gallery (Makarov’s version 16 - Endless color random carpet on SIMD-BP128 + Quantum foam GUI parameters) | Babylon.js Playground](https://playground.babylonjs.com/#XYULV1#1)
 
 Может у кого-то есть какие-то ещё идеи пишите в дискусии...
