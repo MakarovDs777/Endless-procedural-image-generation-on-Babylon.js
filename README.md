@@ -42,15 +42,15 @@
 
 [The endless art gallery (Makarov’s version 8 - Endless color random picture) | Babylon.js Playground](https://playground.babylonjs.com/#FT6RX3)
 
-Подиум с постепенной заменной пикселей на случайные пиксели из предустановленной картинки работает только в +x а по -x не работает.
+Подиум с постепенной заменой пикселей на случайные пиксели из предустановленной картинки работает только в +x а по -x не работает.
 
 [The endless art gallery of the Backrooms(Makarov’s version 9-With a preset image and replacing its pixels with random) | Babylon.js Playground](https://playground.babylonjs.com/#QJ28PQ#1)
 
-Теперь сделаем вместо замены случайных пикселей на случайные просто случайно пермешанные пиксели без повторов.
+Теперь сделаем вместо замены случайных пикселей на случайные просто случайно перемешанные пиксели без повторов.
 
 [The endless art gallery (Makarov’s version 10 - Shuffled ONE art endless gallery) | Babylon.js Playground](https://playground.babylonjs.com/#ZRJP8W)
 
-Тоже самое что и предыдущая только в процетном соотношение каждый чанк имеет свой процент перемешивания (1%, 2%, ..., 100%, затем снова 1%). Внутри каждого процента перемешивание детерминированное от seed..
+Тоже самое что и предыдущая только в процентном соотношение каждый чанк имеет свой процент перемешивания (1%, 2%, ..., 100%, затем снова 1%). Внутри каждого процента перемешивание детерминированное от seed..
 
 [The endless art gallery (Makarov’s version 11 - Shuffled ONE art endless gallery as a percentage) | Babylon.js Playground](https://playground.babylonjs.com/#Q5KQFM)
 
@@ -62,7 +62,7 @@
 
 [The endless art gallery (Makarov’s version 13 - Shuffled MORE art endless gallery as a % with random pixel swapping) | Babylon.js Playground](https://playground.babylonjs.com/#3UXDUC)
 
-Просто случаное пермешивание пикселей при каждой последующей итерации.
+Просто случайное перемешивание пикселей при каждой последующей итерации.
 
 [The endless art gallery (Makarov’s version 14 - Random Shuffled ONE art endless gallery) | Babylon.js Playground](https://playground.babylonjs.com/#80SX0G)
 
@@ -74,4 +74,8 @@
 
 [The endless art gallery (Makarov’s version 16 - Endless color random carpet on SIMD-BP128 + Quantum foam GUI parameters) | Babylon.js Playground](https://playground.babylonjs.com/#XYULV1#1)
 
-Может у кого-то есть какие-то ещё идеи пишите в дискусии...
+Просто случайно перемешанные пиксели картинки.
+
+[The endless art gallery (Makarov’s version 17 - Random pixel shuffler) | Babylon.js Playground](https://playground.babylonjs.com/#H5ELRP)
+
+Может у кого-то есть какие-то ещё идеи пишите в дискуссии...
