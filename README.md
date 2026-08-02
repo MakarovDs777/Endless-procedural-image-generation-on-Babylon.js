@@ -78,4 +78,8 @@
 
 [The endless art gallery (Makarov’s version 17 - Random pixel shuffler) | Babylon.js Playground](https://playground.babylonjs.com/#H5ELRP)
 
+Попробуем взять и перемешивать числа из RLE, и LZW.
+
+[The endless art gallery (Makarov’s version 18 - Shuffled LZW and RLE) | Babylon.js Playground](https://playground.babylonjs.com/#TEH4UR)
+
 Может у кого-то есть какие-то ещё идеи пишите в дискуссии...
