@@ -94,4 +94,8 @@
 
 [The endless art gallery (Makarov’s version 21 - Cut into random width ribbons,and randomly connect them but % the ratio) | Babylon.js Playground](https://playground.babylonjs.com/#3UZWHU)
 
+Тоже что и предыдущая только с множеством картинок для каждой собственное перемешивания а не совместное а не одной.
+
+[The endless art gallery (Makarov’s version 22 - 21'th version but more images) | Babylon.js Playground](https://playground.babylonjs.com/#ML95MR)
+
 Может у кого-то есть какие-то ещё идеи пишите в дискуссии...
