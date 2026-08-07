@@ -82,4 +82,8 @@
 
 [The endless art gallery (Makarov’s version 18 - Shuffled LZW and RLE) | Babylon.js Playground](https://playground.babylonjs.com/#TEH4UR)
 
+Теперь сделаем метановые озёра.
+
+[The endless art gallery (Makarov’s version 19 - Endless lakes of methane) | Babylon.js Playground](https://playground.babylonjs.com/#M0EUM9)
+
 Может у кого-то есть какие-то ещё идеи пишите в дискуссии...
