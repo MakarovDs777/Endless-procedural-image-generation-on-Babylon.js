@@ -90,4 +90,8 @@
 
 [The endless art gallery (Makarov’s version 20 - Cut into random width ribbons, and randomly connect them) | Babylon.js Playground](https://playground.babylonjs.com/#LS3D0B#1)
 
+Отлично но нужно делать нормально в процентном соотношении первая итерация 1% порезки на ленты второй 2% процент и так далее...
+
+[The endless art gallery (Makarov’s version 21 - Cut into random width ribbons,and randomly connect them but % the ratio) | Babylon.js Playground](https://playground.babylonjs.com/#3UZWHU)
+
 Может у кого-то есть какие-то ещё идеи пишите в дискуссии...
