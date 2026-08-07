@@ -86,4 +86,8 @@
 
 [The endless art gallery (Makarov’s version 19 - Endless lakes of methane) | Babylon.js Playground](https://playground.babylonjs.com/#M0EUM9)
 
+Теперь сделаем что-бы пиксели картинки слева сверху брать случайное количество последовательностей пикселей идущих подряд от 1 до 100 случайно на кластеры поделить, и при каждой последующей итерации переставлять их эти кластеры случайно как бы как будто-бы порезали бумагу на ленты в полосочки разной ширины длинг и пытаемся заново собрать эти полоски вместе...
+
+[The endless art gallery (Makarov’s version 20 - Cut into random width ribbons, and randomly connect them) | Babylon.js Playground](https://playground.babylonjs.com/#LS3D0B)
+
 Может у кого-то есть какие-то ещё идеи пишите в дискуссии...
