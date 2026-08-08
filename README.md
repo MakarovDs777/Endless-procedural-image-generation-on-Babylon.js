@@ -98,4 +98,8 @@
 
 [The endless art gallery (Makarov’s version 22 - 21'th version but more images) | Babylon.js Playground](https://playground.babylonjs.com/#ML95MR)
 
+Нужно что-бы в одной картинки порезанные ленты перемешивались друг с другом.
+
+[The endless art gallery (Makarov’s version 23 - 22'th version but more images in one shuffled lents) | Babylon.js Playground](https://playground.babylonjs.com/#7X63KN)
+
 Может у кого-то есть какие-то ещё идеи пишите в дискуссии...
