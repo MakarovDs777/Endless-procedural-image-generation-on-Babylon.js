@@ -106,4 +106,8 @@
 
 [The endless art gallery (Makarov’s version 24 - Endless Glitch Podium One Image Version) | Babylon.js Playground](https://playground.babylonjs.com/#OZ7RJ7#1)
 
+Теперь сделаем для множества картинок а не одной.
+
+[The endless art gallery (Makarov’s version 25 - Endless Glitch Podium More Images Version) | Babylon.js Playground](https://playground.babylonjs.com/#X1BYR3)
+
 Может у кого-то есть какие-то ещё идеи пишите в дискуссии...
