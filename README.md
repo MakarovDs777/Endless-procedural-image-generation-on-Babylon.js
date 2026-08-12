@@ -104,6 +104,6 @@
 
 Короче все эта хрень нужно идти другим путем возьмём и сделаем какой нибудь глюк и при каждой итерации будем изменять этот глюк может выйдет что-то интересное.
 
-[The endless art gallery (Makarov’s version 24 - Endless Glitch Podium One Image Version) | Babylon.js Playground](https://playground.babylonjs.com/#OZ7RJ7)
+[The endless art gallery (Makarov’s version 24 - Endless Glitch Podium One Image Version) | Babylon.js Playground](https://playground.babylonjs.com/#OZ7RJ7#1)
 
 Может у кого-то есть какие-то ещё идеи пишите в дискуссии...
