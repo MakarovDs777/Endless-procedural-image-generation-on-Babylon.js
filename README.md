@@ -136,6 +136,6 @@
 
 Тоже что и предыдущая только без глитча.
 
-[The endless art gallery (Makarov’s version 32 - It’s the same as version 31 but no GLITCH lents) | Babylon.js Playground](https://playground.babylonjs.com/#113SJR)
+[The endless art gallery (Makarov’s version 32 - It’s the same as version 31 but no GLITCH lents) | Babylon.js Playground](https://playground.babylonjs.com/#113SJR#1)
 
 Может у кого-то есть какие-то ещё идеи пишите в дискуссии...
