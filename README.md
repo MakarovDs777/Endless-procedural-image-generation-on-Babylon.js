@@ -132,6 +132,6 @@
 
 Тоже что и 30 версия только множество картинок а не одна.
 
-[The endless art gallery (Makarov’s version 31-It’s the same as version 30, only there are many images instead of just 1) | Babylon.js Playground](https://playground.babylonjs.com/#YMKGJM)
+[The endless art gallery (Makarov’s version 31-It’s the same as version 30, only there are many images instead of just 1) | Babylon.js Playground](https://playground.babylonjs.com/#YMKGJM#1)
 
 Может у кого-то есть какие-то ещё идеи пишите в дискуссии...
