@@ -122,4 +122,8 @@
 
 [The endless art gallery (Makarov’s version 28 - An endless podium cut into vertical strips of varying sizes One image) | Babylon.js Playground](https://playground.babylonjs.com/#E1NV7Y)
 
+Херня растянутых вертикальных полос.
+
+[The endless art gallery (Makarov’s version 29 - An endless catwalk made of stretched vertical strips) | Babylon.js Playground](https://playground.babylonjs.com/#Q4Q23M)
+
 Может у кого-то есть какие-то ещё идеи пишите в дискуссии...
