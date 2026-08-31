@@ -130,4 +130,8 @@
 
 [The endless art gallery (Makarov’s version 30 - An endless podium cut into horizontal+vertical strips of varying sizes) | Babylon.js Playground](https://playground.babylonjs.com/#XS58B0)
 
+Тоже что и 30 версия только множество картинок а не одна.
+
+[The endless art gallery (Makarov’s version 31-It’s the same as version 30, only there are many images instead of just 1) | Babylon.js Playground](https://playground.babylonjs.com/#YMKGJM)
+
 Может у кого-то есть какие-то ещё идеи пишите в дискуссии...
