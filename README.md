@@ -110,4 +110,8 @@
 
 [The endless art gallery (Makarov’s version 25 - Endless Glitch Podium More Images Version) | Babylon.js Playground](https://playground.babylonjs.com/#X1BYR3)
 
+Ладно попробуем разделить на целые ленты а не кусочки лент.
+
+[The endless art gallery (Makarov’s version 26 - An endless podium cut into horizontal strips of varying sizes One image) | Babylon.js Playground](https://playground.babylonjs.com/#6WOC9S)
+
 Может у кого-то есть какие-то ещё идеи пишите в дискуссии...
