@@ -114,4 +114,8 @@
 
 [The endless art gallery (Makarov’s version 26 - An endless podium cut into horizontal strips of varying sizes One image) | Babylon.js Playground](https://playground.babylonjs.com/#6WOC9S)
 
+Теперь мы порежем картинку на вертикальные глитч ленты а не горизонтальные.
+
+[The endless art gallery(Makarov’s version 27-An endless podium cut into vertical GLITCH strips of varying sizes 1 image) | Babylon.js Playground](https://playground.babylonjs.com/#8OHA1O)
+
 Может у кого-то есть какие-то ещё идеи пишите в дискуссии...
