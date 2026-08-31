@@ -126,4 +126,8 @@
 
 [The endless art gallery (Makarov’s version 29 - An endless catwalk made of stretched vertical strips) | Babylon.js Playground](https://playground.babylonjs.com/#Q4Q23M)
 
+Совместим 26 версию, и сделаем ленты вертикальными уже которые были горизонтальными.
+
+[The endless art gallery (Makarov’s version 30 - An endless podium cut into horizontal+vertical strips of varying sizes) | Babylon.js Playground](https://playground.babylonjs.com/#XS58B0)
+
 Может у кого-то есть какие-то ещё идеи пишите в дискуссии...
