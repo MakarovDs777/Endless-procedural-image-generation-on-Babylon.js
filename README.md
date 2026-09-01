@@ -148,6 +148,6 @@
 
 Тоже что, и предыдущая только много картинок а не одна.
 
-[The endless art gallery (Makarov’s version 35 - Version 34 but more images) | Babylon.js Playground](https://playground.babylonjs.com/#AQHBMP)
+[The endless art gallery (Makarov’s version 35 - Version 34 but more images) | Babylon.js Playground](https://playground.babylonjs.com/#AQHBMP#1)
 
 Может у кого-то есть какие-то ещё идеи пишите в дискуссии...
