@@ -146,4 +146,8 @@
 
 [The endless art gallery (Makarov’s version 34 - Version 28 only without glitch tapes and them going over the edge) | Babylon.js Playground](https://playground.babylonjs.com/#YEXXZG)
 
+Тоже что, и предыдущая только много картинок а не одна.
+
+[The endless art gallery (Makarov’s version 35 - Version 34 but more images) | Babylon.js Playground](https://playground.babylonjs.com/#AQHBMP)
+
 Может у кого-то есть какие-то ещё идеи пишите в дискуссии...
