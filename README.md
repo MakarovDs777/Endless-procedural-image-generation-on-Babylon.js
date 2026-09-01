@@ -140,6 +140,6 @@
 
 Отлично теперь сделаем что-бы между картинками разными были порезанные на ленты вертикальных и горизонтальных.
 
-[The endless art gallery (Makarov’s version 33 - 32 but with the rearranging of the cut strips between different images) | Babylon.js Playground](https://playground.babylonjs.com/#FCYBTJ)
+[The endless art gallery (Makarov’s version 33 - 32 but with the rearranging of the cut strips between different images) | Babylon.js Playground](https://playground.babylonjs.com/#FCYBTJ#1)
 
 Может у кого-то есть какие-то ещё идеи пишите в дискуссии...
