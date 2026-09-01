@@ -142,4 +142,8 @@
 
 [The endless art gallery (Makarov’s version 33 - 32 but with the rearranging of the cut strips between different images) | Babylon.js Playground](https://playground.babylonjs.com/#FCYBTJ#1)
 
+Тоже что и 28 версия только без глитч лент, и заезжания вертикальных порезанных лент за края. А тот рыцарь вышел уже из катакомб в метро...
+
+[The endless art gallery (Makarov’s version 34 - Version 28 only without glitch tapes and them going over the edge) | Babylon.js Playground](https://playground.babylonjs.com/#YEXXZG)
+
 Может у кого-то есть какие-то ещё идеи пишите в дискуссии...
