@@ -150,4 +150,8 @@
 
 [The endless art gallery (Makarov’s version 35 - Version 34 but more images) | Babylon.js Playground](https://playground.babylonjs.com/#AQHBMP#1)
 
+Не порежем их на ленты горизонтальные разные и выставим в ряд их разные картинки порезанных лент в ряд горизонтальные ленты.
+
+[The endless art gallery(Makarov’s version 36-Cut images into pieces,arranged in vertical strips,different ones in a row) | Babylon.js Playground](https://playground.babylonjs.com/#EXRW4K)
+
 Может у кого-то есть какие-то ещё идеи пишите в дискуссии...
