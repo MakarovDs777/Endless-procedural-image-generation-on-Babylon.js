@@ -158,4 +158,12 @@
 
 [The endless art gallery (Makarov’s version 37 - Angled stripes) | Babylon.js Playground](https://playground.babylonjs.com/#I3N0YW)
 
+Тоже что и предыдущая только горизонтальная а не вертикальная.
+
+[The endless art gallery (Makarov’s version 38 - Angled vertical stripes) | Babylon.js Playground](https://playground.babylonjs.com/#Q7AMH8)
+
+Теперь с наклоном сами лент а не текстур в лентах.
+
+[]()
+
 Может у кого-то есть какие-то ещё идеи пишите в дискуссии...
