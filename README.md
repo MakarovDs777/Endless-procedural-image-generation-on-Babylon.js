@@ -154,4 +154,8 @@
 
 [The endless art gallery(Makarov’s version 36-Cut images into pieces,arranged in vertical strips,different ones in a row) | Babylon.js Playground](https://playground.babylonjs.com/#EXRW4K)
 
+Угловатые полосы.
+
+[The endless art gallery (Makarov’s version 37 - Angled stripes) | Babylon.js Playground](https://playground.babylonjs.com/#I3N0YW)
+
 Может у кого-то есть какие-то ещё идеи пишите в дискуссии...
