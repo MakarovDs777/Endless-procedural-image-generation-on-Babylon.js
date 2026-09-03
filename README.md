@@ -164,6 +164,6 @@
 
 Теперь с наклоном сами лент а не текстур в лентах.
 
-[]()
+[The endless art gallery (Makarov’s version 39 - Angled vertical stripes lents) | Babylon.js Playground](https://playground.babylonjs.com/#14T202)
 
 Может у кого-то есть какие-то ещё идеи пишите в дискуссии...
