@@ -166,6 +166,6 @@
 
 [The endless art gallery (Makarov’s version 39 - Angled vertical stripes lents) | Babylon.js Playground](https://playground.babylonjs.com/#14T202)
 
-[The endless art gallery (Makarov’s version 40 - RGB random shuffle Lents LZW) | Babylon.js Playground](https://playground.babylonjs.com/#7EYC6U)
+[The endless art gallery (Makarov’s version 40 - RGB random shuffle Lents LZW) | Babylon.js Playground](https://playground.babylonjs.com/#7EYC6U#1)
 
 Может у кого-то есть какие-то ещё идеи пишите в дискуссии...
