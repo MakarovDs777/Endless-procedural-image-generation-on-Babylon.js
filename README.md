@@ -170,4 +170,8 @@
 
 [The endless art gallery (Makarov’s version 40 - RGB random shuffle Lents LZW) | Babylon.js Playground](https://playground.babylonjs.com/#7EYC6U#3)
 
+Тоже что и 37 версия только есть кнопка для скачивания картинки.
+
+[The endless art gallery (Makarov’s version 41 - Angled stripes and download image button) | Babylon.js Playground](https://playground.babylonjs.com/#LTNP45)
+
 Может у кого-то есть какие-то ещё идеи пишите в дискуссии...
