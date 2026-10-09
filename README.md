@@ -178,4 +178,8 @@
 
 [The endless art gallery (Makarov’s version 42 - A podium with sequential pixel deletions + Download image button) | Babylon.js Playground](https://playground.babylonjs.com/#KDTJF5)
 
+Тоже что и предыдущая только множество картинок а не одна.
+
+[The endless art gallery (Makarov’s version 43 - A podium IMAGES with sequential pixel deletions + Download image button) | Babylon.js Playground](https://playground.babylonjs.com/#UG66FK)
+
 Может у кого-то есть какие-то ещё идеи пишите в дискуссии...
