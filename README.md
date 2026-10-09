@@ -182,4 +182,8 @@
 
 [The endless art gallery (Makarov’s version 43 - A podium IMAGES with sequential pixel deletions + Download image button) | Babylon.js Playground](https://playground.babylonjs.com/#UG66FK#2)
 
+Подиум с последовательными заменой пикселей на случайные другие пиксели.
+
+[The endless art gallery (Makarov’s version 44 - A podium with sequential replacement of pixels with random other pixels) | Babylon.js Playground](https://playground.babylonjs.com/#0K0O1Q)
+
 Может у кого-то есть какие-то ещё идеи пишите в дискуссии...
