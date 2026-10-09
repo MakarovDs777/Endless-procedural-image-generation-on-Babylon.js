@@ -190,4 +190,8 @@
 
 [The endless art gallery (Makarov’s version 45 - 44'th version but more images) | Babylon.js Playground](https://playground.babylonjs.com/#B3MQAQ)
 
+Вместо пикселей берём диапазоны случайных пикслей удаление при каждой последующей итерации то есть диапазон минимальный, и максимальный от 0 0 0 до 255 255 255, и типа получится что нулевая итерация просто картинки без удаление так же для всех картинок что в массиве первая итерация 123 123 123 до 222 222 222, и все пиксели что в ходят в диапазон этих RGB удаляются вторая итерация 66 26 16 до 100 102 100, и так далее...
+
+[The endless art gallery (Makarov’s version 46 - Pixel removal based on ranges minimum/maximum RGB pixel images values) | Babylon.js Playground](https://playground.babylonjs.com/#TEHHQH)
+
 Может у кого-то есть какие-то ещё идеи пишите в дискуссии...
