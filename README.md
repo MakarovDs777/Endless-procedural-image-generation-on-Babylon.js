@@ -174,4 +174,8 @@
 
 [The endless art gallery (Makarov’s version 41 - Angled stripes and download image button) | Babylon.js Playground](https://playground.babylonjs.com/#LTNP45)
 
+Подиум с последовательными удалениями RGB пикселей в нулевой итерации ничего не удаляется в первой удаляются все 0 0 0 во второй все 0 0 1 и так до самого последнего 255 255 255 числа.
+
+[The endless art gallery (Makarov’s version 42 - A podium with sequential pixel deletions + Download image button) | Babylon.js Playground](https://playground.babylonjs.com/#KDTJF5)
+
 Может у кого-то есть какие-то ещё идеи пишите в дискуссии...
