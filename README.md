@@ -186,4 +186,8 @@
 
 [The endless art gallery (Makarov’s version 44 - A podium with sequential replacement of pixels with random other pixels) | Babylon.js Playground](https://playground.babylonjs.com/#0K0O1Q)
 
+Тоже что и предыдущий код только множество картинок а не одная.
+
+[The endless art gallery (Makarov’s version 45 - 44'th version but more images) | Babylon.js Playground](https://playground.babylonjs.com/#B3MQAQ)
+
 Может у кого-то есть какие-то ещё идеи пишите в дискуссии...
