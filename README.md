@@ -194,4 +194,8 @@
 
 [The endless art gallery (Makarov’s version 46 - Pixel removal based on ranges minimum/maximum RGB pixel images values) | Babylon.js Playground](https://playground.babylonjs.com/#TEHHQH)
 
+При каждой последующей итерации пиксели убегают дальше от своего места.
+
+[The endless art gallery (Makarov’s version 47 - With each subsequent iteration, the pixels scatter) | Babylon.js Playground](https://playground.babylonjs.com/#682VTG)
+
 Может у кого-то есть какие-то ещё идеи пишите в дискуссии...
